@@ -21,7 +21,7 @@ retail_store/
 │   │   ├── sales.routes.js
 │   │   └── user.routes.js
 │   │
-│   └── index.js
+│   └── main.js
 │
 └── package.json
 ```
