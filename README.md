@@ -1,7 +1,7 @@
 # retail-store-node-mysql
 
 ## 🏗️ Architecture
-
+```
 ERD_Mapping
 |
 ├── mapping.png
@@ -24,3 +24,4 @@ retail_store/
 │   └── index.js
 │
 └── package.json
+```
